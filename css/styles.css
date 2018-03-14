@@ -1,0 +1,30 @@
+h1 {
+  color: #3ebfbf;
+  text-align: center;
+  font-family: verdana;
+}
+
+h2 {
+  color: #c4c1c0>
+  text-align:center;
+  font-family: verdana;
+}
+
+h3 {
+  color: #3ebfbf;
+  font-style: italic;
+  font-family: verdana;
+}
+
+p {
+  font-family: verdana;
+}
+
+ul {
+  font-family: verdana;
+  line-height: 30px;
+}
+ol {
+  font-family: verdana;
+  line-height: 30px;
+}

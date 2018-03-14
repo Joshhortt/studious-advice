@@ -8,7 +8,7 @@ By _**Josh Hortt**_
 ## Description
 
 _The purpose of this Webpage is to explain how to better prepare_,<br/>
-_for study when taking this program called "Learn how to program" _.<br/>
+_for study when taking this program called_: "Learn how to program".<br/>
 _with EPICODUS, a vocational school for programmers_.
 
 ## Setup/Installation Requirements
